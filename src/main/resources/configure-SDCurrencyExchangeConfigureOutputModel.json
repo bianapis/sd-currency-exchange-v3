@@ -1,0 +1,21 @@
+{
+  "currencyExchangeConfigurationActionTaskRecord" : {},
+  "currencyExchangeServiceConfigurationRecord" : {
+    "currencyExchangeServiceConfigurationSettingDescription" : "currencyExchangeServiceConfigurationSettingDescription",
+    "currencyExchangeServiceAgreement" : {
+      "currencyExchangeServiceUserReference" : "733696",
+      "currencyExchangeServiceAgreementTermsandConditions" : "currencyExchangeServiceAgreementTermsandConditions",
+      "currencyExchangeServiceAgreementReference" : "721156"
+    },
+    "currencyExchangeServiceConfigurationSetup" : {
+      "currencyExchangeServiceConfigurationParameter" : "currencyExchangeServiceConfigurationParameter"
+    },
+    "currencyExchangeServiceStatus" : "currencyExchangeServiceStatus",
+    "currencyExchangeServiceSubscription" : {
+      "currencyExchangeServiceSubscriberReference" : "756221",
+      "currencyExchangeServiceSubscriberAccessProfile" : "currencyExchangeServiceSubscriberAccessProfile"
+    }
+  },
+  "currencyExchangeServicingSessionStatus" : "currencyExchangeServicingSessionStatus",
+  "currencyExchangeConfigurationActionTaskReference" : "SCATR765419"
+}

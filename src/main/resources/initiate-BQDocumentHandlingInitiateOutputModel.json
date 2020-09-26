@@ -1,0 +1,15 @@
+{
+  "documentHandlingInstanceReference" : "DHIR716420",
+  "documentHandlingDocumentServicesServiceInputsandOuputs" : "documentHandlingDocumentServicesServiceInputsandOuputs",
+  "documentHandlingDocumentServicesServiceType" : "documentHandlingDocumentServicesServiceType",
+  "documentHandlingPostconditions" : "documentHandlingPostconditions",
+  "documentHandlingDocumentServicesServiceWorkProduct" : "documentHandlingDocumentServicesServiceWorkProduct",
+  "documentHandlingPreconditions" : "documentHandlingPreconditions",
+  "documentHandlingInitiateActionRecord" : {},
+  "documentHandlingInitiateActionReference" : "DHIAR776789",
+  "documentHandlingDocumentServicesServiceName" : "documentHandlingDocumentServicesServiceName",
+  "documentHandlingDocumentServicesServiceDescription" : "documentHandlingDocumentServicesServiceDescription",
+  "documentHandlingInstanceStatus" : "documentHandlingInstanceStatus",
+  "documentServices" : "documentServices",
+  "documentHandlingTaskSchedule" : "documentHandlingTaskSchedule"
+}

@@ -1,0 +1,9 @@
+{
+  "executeRecordReference" : "ERR763086",
+  "currencyExchangeTransactionParameterType" : "currencyExchangeTransactionParameterType",
+  "currencyExchangeTransactionSelectedOption" : "currencyExchangeTransactionSelectedOption",
+  "executeResponseRecord" : {},
+  "currencyExchangeTransactionExecuteActionTaskReference" : "CETEATR771481",
+  "currencyExchangeTransactionStatus" : "currencyExchangeTransactionStatus",
+  "currencyExchangeTransactionExecuteActionTaskRecord" : {}
+}

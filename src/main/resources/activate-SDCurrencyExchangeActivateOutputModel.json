@@ -1,0 +1,24 @@
+{
+  "currencyExchangeServicingSessionReference" : "SSSR783215",
+  "currencyExchangeServicingSessionRecord" : {},
+  "currencyExchangeActivationActionTaskRecord" : {},
+  "currencyExchangeServiceConfigurationRecord" : {
+    "currencyExchangeServiceConfigurationSettingDescription" : "currencyExchangeServiceConfigurationSettingDescription",
+    "currencyExchangeServiceAgreement" : {
+      "currencyExchangeServiceUserReference" : "767210",
+      "currencyExchangeServiceAgreementTermsandConditions" : "currencyExchangeServiceAgreementTermsandConditions",
+      "currencyExchangeServiceAgreementReference" : "791202"
+    },
+    "currencyExchangeServiceConfigurationSetup" : {
+      "currencyExchangeServiceConfigurationParameter" : "currencyExchangeServiceConfigurationParameter"
+    },
+    "currencyExchangeServiceConfigurationSettingReference" : "700761",
+    "currencyExchangeServiceStatus" : "currencyExchangeServiceStatus",
+    "currencyExchangeServiceSubscription" : {
+      "currencyExchangeServiceSubscriberReference" : "769192",
+      "currencyExchangeServiceSubscriberAccessProfile" : "currencyExchangeServiceSubscriberAccessProfile"
+    }
+  },
+  "currencyExchangeActivationActionTaskReference" : "SAATR758836",
+  "currencyExchangeServicingSessionStatus" : "currencyExchangeServicingSessionStatus"
+}

@@ -1,0 +1,25 @@
+{
+  "fXTransactionCaptureRetrieveActionTaskReference" : "FCRATR787993",
+  "fXTransactionCapturePostconditions" : "fXTransactionCapturePostconditions",
+  "fXTransactionCaptureInstanceAnalysis" : {
+    "fXTransactionCaptureInstanceAnalysisRecord" : {},
+    "fXTransactionCaptureInstanceAnalysisReportType" : "fXTransactionCaptureInstanceAnalysisReportType",
+    "fXTransactionCaptureInstanceAnalysisReport" : {},
+    "fXTransactionCaptureInstanceAnalysisParameters" : "fXTransactionCaptureInstanceAnalysisParameters"
+  },
+  "fXTransactionCaptureFXTransactionCaptureServiceDescription" : "fXTransactionCaptureFXTransactionCaptureServiceDescription",
+  "fXTransactionCaptureInstanceReport" : {
+    "fXTransactionCaptureInstanceReportParameters" : "fXTransactionCaptureInstanceReportParameters",
+    "fXTransactionCaptureInstanceReport" : {},
+    "fXTransactionCaptureInstanceReportType" : "fXTransactionCaptureInstanceReportType",
+    "fXTransactionCaptureInstanceReportRecord" : {}
+  },
+  "fXTransactionCaptureRetrieveActionTaskRecord" : {},
+  "fXTransactionCaptureFXTransactionCaptureServiceType" : "fXTransactionCaptureFXTransactionCaptureServiceType",
+  "fXTransactionCapture" : "fXTransactionCapture",
+  "fXTransactionCaptureFXTransactionCaptureServiceInputsandOuputs" : "fXTransactionCaptureFXTransactionCaptureServiceInputsandOuputs",
+  "fXTransactionCaptureFXTransactionCaptureServiceWorkProduct" : "fXTransactionCaptureFXTransactionCaptureServiceWorkProduct",
+  "fXTransactionCaptureTaskSchedule" : "fXTransactionCaptureTaskSchedule",
+  "fXTransactionCapturePreconditions" : "fXTransactionCapturePreconditions",
+  "fXTransactionCaptureRetrieveActionResponse" : "fXTransactionCaptureRetrieveActionResponse"
+}

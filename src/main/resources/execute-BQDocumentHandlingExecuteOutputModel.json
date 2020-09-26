@@ -1,0 +1,15 @@
+{
+  "documentHandlingDocumentServicesServiceInputsandOuputs" : "documentHandlingDocumentServicesServiceInputsandOuputs",
+  "documentHandlingDocumentServicesServiceType" : "documentHandlingDocumentServicesServiceType",
+  "documentHandlingPostconditions" : "documentHandlingPostconditions",
+  "executeResponseRecord" : {},
+  "documentHandlingDocumentServicesServiceWorkProduct" : "documentHandlingDocumentServicesServiceWorkProduct",
+  "documentHandlingPreconditions" : "documentHandlingPreconditions",
+  "documentHandlingExecuteActionTaskRecord" : {},
+  "documentHandlingExecuteRecordReference" : "DHERR742949",
+  "documentHandlingDocumentServicesServiceName" : "documentHandlingDocumentServicesServiceName",
+  "documentHandlingDocumentServicesServiceDescription" : "documentHandlingDocumentServicesServiceDescription",
+  "documentServices" : "documentServices",
+  "documentHandlingTaskSchedule" : "documentHandlingTaskSchedule",
+  "documentHandlingExecuteActionTaskReference" : "DHEATR789485"
+}

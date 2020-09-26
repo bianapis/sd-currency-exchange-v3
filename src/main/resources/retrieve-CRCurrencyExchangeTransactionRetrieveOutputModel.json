@@ -1,0 +1,20 @@
+{
+  "currencyExchangeTransactionInstanceReportRecord" : {
+    "currencyExchangeTransactionInstanceReportData" : "currencyExchangeTransactionInstanceReportData",
+    "currencyExchangeTransactionInstanceReport" : {},
+    "currencyExchangeTransactionInstanceReportType" : "currencyExchangeTransactionInstanceReportType"
+  },
+  "currencyExchangeTransactionInstanceAnalysis" : {
+    "currencyExchangeTransactionInstanceAnalysisData" : "currencyExchangeTransactionInstanceAnalysisData",
+    "currencyExchangeTransactionInstanceAnalysisReport" : {},
+    "currencyExchangeTransactionInstanceAnalysisReportType" : "currencyExchangeTransactionInstanceAnalysisReportType"
+  },
+  "currencyExchangeTransactionParameterType" : "currencyExchangeTransactionParameterType",
+  "currencyExchangeTransactionSelectedOption" : "currencyExchangeTransactionSelectedOption",
+  "currencyExchangeTransactionType" : "currencyExchangeTransactionType",
+  "currencyExchangeTransactionRetrieveActionTaskReference" : "CETRATR715105",
+  "currencyExchangeTransactionStatus" : "currencyExchangeTransactionStatus",
+  "currencyExchangeTransactionTransactionType" : "currencyExchangeTransactionTransactionType",
+  "currencyExchangeTransactionRetrieveActionResponse" : "currencyExchangeTransactionRetrieveActionResponse",
+  "currencyExchangeTransactionRetrieveActionTaskRecord" : {}
+}

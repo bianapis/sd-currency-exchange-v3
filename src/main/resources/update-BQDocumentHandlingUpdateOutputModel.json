@@ -1,0 +1,14 @@
+{
+  "documentHandlingDocumentServicesServiceInputsandOuputs" : "documentHandlingDocumentServicesServiceInputsandOuputs",
+  "documentHandlingDocumentServicesServiceType" : "documentHandlingDocumentServicesServiceType",
+  "documentHandlingPostconditions" : "documentHandlingPostconditions",
+  "documentHandlingDocumentServicesServiceWorkProduct" : "documentHandlingDocumentServicesServiceWorkProduct",
+  "documentHandlingDocumentServicesServiceName" : "documentHandlingDocumentServicesServiceName",
+  "documentHandlingDocumentServicesServiceDescription" : "documentHandlingDocumentServicesServiceDescription",
+  "documentHandlingUpdateActionTaskReference" : "DHUATR797967",
+  "updateResponseRecord" : {},
+  "documentHandlingPreconditions" : "documentHandlingPreconditions",
+  "documentHandlingUpdateActionTaskRecord" : {},
+  "documentServices" : "documentServices",
+  "documentHandlingTaskSchedule" : "documentHandlingTaskSchedule"
+}

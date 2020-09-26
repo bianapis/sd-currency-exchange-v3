@@ -1,0 +1,26 @@
+{
+  "documentHandlingDocumentServicesServiceInputsandOuputs" : "documentHandlingDocumentServicesServiceInputsandOuputs",
+  "documentHandlingDocumentServicesServiceType" : "documentHandlingDocumentServicesServiceType",
+  "documentHandlingRetrieveActionTaskRecord" : {},
+  "documentHandlingPostconditions" : "documentHandlingPostconditions",
+  "documentHandlingDocumentServicesServiceWorkProduct" : "documentHandlingDocumentServicesServiceWorkProduct",
+  "documentHandlingInstanceAnalysis" : {
+    "documentHandlingInstanceAnalysisRecord" : {},
+    "documentHandlingInstanceAnalysisReportType" : "documentHandlingInstanceAnalysisReportType",
+    "documentHandlingInstanceAnalysisReport" : {},
+    "documentHandlingInstanceAnalysisParameters" : "documentHandlingInstanceAnalysisParameters"
+  },
+  "documentHandlingRetrieveActionResponse" : "documentHandlingRetrieveActionResponse",
+  "documentHandlingPreconditions" : "documentHandlingPreconditions",
+  "documentHandlingRetrieveActionTaskReference" : "DHRATR717533",
+  "documentHandlingInstanceReport" : {
+    "documentHandlingInstanceReport" : {},
+    "documentHandlingInstanceReportRecord" : {},
+    "documentHandlingInstanceReportType" : "documentHandlingInstanceReportType",
+    "documentHandlingInstanceReportParameters" : "documentHandlingInstanceReportParameters"
+  },
+  "documentHandlingDocumentServicesServiceName" : "documentHandlingDocumentServicesServiceName",
+  "documentHandlingDocumentServicesServiceDescription" : "documentHandlingDocumentServicesServiceDescription",
+  "documentServices" : "documentServices",
+  "documentHandlingTaskSchedule" : "documentHandlingTaskSchedule"
+}

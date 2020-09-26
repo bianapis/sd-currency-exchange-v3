@@ -1,0 +1,9 @@
+{
+  "currencyExchangeFeedbackActionTaskReference" : "SFATR765157",
+  "currencyExchangeFeedbackActionTaskRecord" : {},
+  "currencyExchangeFeedbackActionRecord" : {
+    "employeeBusinessUnitReference" : "769031",
+    "feedbackRecordStatus" : "feedbackRecordStatus",
+    "feedbackRecordDateTime" : "09-22-2018"
+  }
+}

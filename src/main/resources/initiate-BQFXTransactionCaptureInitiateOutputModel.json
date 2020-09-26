@@ -1,0 +1,14 @@
+{
+  "fXTransactionCaptureInstanceStatus" : "fXTransactionCaptureInstanceStatus",
+  "fXTransactionCapturePostconditions" : "fXTransactionCapturePostconditions",
+  "fXTransactionCaptureInitiateActionRecord" : {},
+  "fXTransactionCaptureInstanceReference" : "FCIR760975",
+  "fXTransactionCaptureFXTransactionCaptureServiceType" : "fXTransactionCaptureFXTransactionCaptureServiceType",
+  "fXTransactionCapture" : "fXTransactionCapture",
+  "fXTransactionCaptureInitiateActionReference" : "FCIAR799722",
+  "fXTransactionCaptureFXTransactionCaptureServiceInputsandOuputs" : "fXTransactionCaptureFXTransactionCaptureServiceInputsandOuputs",
+  "fXTransactionCaptureFXTransactionCaptureServiceWorkProduct" : "fXTransactionCaptureFXTransactionCaptureServiceWorkProduct",
+  "fXTransactionCaptureTaskSchedule" : "fXTransactionCaptureTaskSchedule",
+  "fXTransactionCaptureFXTransactionCaptureServiceDescription" : "fXTransactionCaptureFXTransactionCaptureServiceDescription",
+  "fXTransactionCapturePreconditions" : "fXTransactionCapturePreconditions"
+}

@@ -1,0 +1,13 @@
+{
+  "fXTransactionCapturePostconditions" : "fXTransactionCapturePostconditions",
+  "fXTransactionCaptureFXTransactionCaptureServiceType" : "fXTransactionCaptureFXTransactionCaptureServiceType",
+  "fXTransactionCapture" : "fXTransactionCapture",
+  "updateResponseRecord" : {},
+  "fXTransactionCaptureUpdateActionTaskReference" : "FCUATR725579",
+  "fXTransactionCaptureFXTransactionCaptureServiceInputsandOuputs" : "fXTransactionCaptureFXTransactionCaptureServiceInputsandOuputs",
+  "fXTransactionCaptureUpdateActionTaskRecord" : {},
+  "fXTransactionCaptureFXTransactionCaptureServiceWorkProduct" : "fXTransactionCaptureFXTransactionCaptureServiceWorkProduct",
+  "fXTransactionCaptureTaskSchedule" : "fXTransactionCaptureTaskSchedule",
+  "fXTransactionCaptureFXTransactionCaptureServiceDescription" : "fXTransactionCaptureFXTransactionCaptureServiceDescription",
+  "fXTransactionCapturePreconditions" : "fXTransactionCapturePreconditions"
+}

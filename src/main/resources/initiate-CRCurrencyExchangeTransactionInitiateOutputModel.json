@@ -1,0 +1,9 @@
+{
+  "currencyExchangeTransactionParameterType" : "currencyExchangeTransactionParameterType",
+  "currencyExchangeTransactionSelectedOption" : "currencyExchangeTransactionSelectedOption",
+  "currencyExchangeTransactionInitiateActionReference" : "CETIAR729969",
+  "currencyExchangeTransactionInstanceStatus" : "currencyExchangeTransactionInstanceStatus",
+  "currencyExchangeTransactionInstanceReference" : "CETIR733267",
+  "currencyExchangeTransactionStatus" : "currencyExchangeTransactionStatus",
+  "currencyExchangeTransactionInitiateActionRecord" : {}
+}

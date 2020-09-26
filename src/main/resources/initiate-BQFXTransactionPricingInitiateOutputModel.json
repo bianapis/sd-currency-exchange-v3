@@ -1,0 +1,15 @@
+{
+  "fXTransactionPricingOTCFXTransactionPricingServiceInputsandOuputs" : "fXTransactionPricingOTCFXTransactionPricingServiceInputsandOuputs",
+  "fXTransactionPricingOTCFXTransactionPricingServiceName" : "fXTransactionPricingOTCFXTransactionPricingServiceName",
+  "fXTransactionPricingTaskSchedule" : "fXTransactionPricingTaskSchedule",
+  "fXTransactionPricingPostconditions" : "fXTransactionPricingPostconditions",
+  "fXTransactionPricingInitiateActionRecord" : {},
+  "fXTransactionPricingOTCFXTransactionPricingServiceDescription" : "fXTransactionPricingOTCFXTransactionPricingServiceDescription",
+  "fXTransactionPricingInstanceStatus" : "fXTransactionPricingInstanceStatus",
+  "fXTransactionPricingOTCFXTransactionPricingServiceType" : "fXTransactionPricingOTCFXTransactionPricingServiceType",
+  "fXTransactionPricingInitiateActionReference" : "FPIAR759506",
+  "fXTransactionPricingPreconditions" : "fXTransactionPricingPreconditions",
+  "fXTransactionPricingInstanceReference" : "FPIR793166",
+  "oTCFXTransactionPricing" : "oTCFXTransactionPricing",
+  "fXTransactionPricingOTCFXTransactionPricingServiceWorkProduct" : "fXTransactionPricingOTCFXTransactionPricingServiceWorkProduct"
+}

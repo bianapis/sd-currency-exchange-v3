@@ -1,0 +1,39 @@
+{
+  "currencyExchangeRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "currencyExchangePerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "currencyExchangeActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "currencyExchangeRetrieveActionTaskRecord" : {},
+  "currencyExchangeRetrieveActionResponse" : "currencyExchangeRetrieveActionResponse",
+  "currencyExchangeRetrieveActionTaskReference" : "SRATR795161",
+  "currencyExchangeOfferedService" : {
+    "currencyExchangeServiceRecord" : {
+      "currencyExchangeServicePoliciesandGuidelines" : {
+        "currencyExchangeServiceEligibility" : "currencyExchangeServiceEligibility",
+        "currencyExchangeServiceIntendedUses" : "currencyExchangeServiceIntendedUses",
+        "currencyExchangeServicePricingandTerms" : "currencyExchangeServicePricingandTerms"
+      },
+      "currencyExchangeServiceSchedule" : "currencyExchangeServiceSchedule",
+      "currencyExchangeServiceVersion" : "currencyExchangeServiceVersion",
+      "currencyExchangeServiceDescription" : "currencyExchangeServiceDescription",
+      "currencyExchangeServiceType" : "currencyExchangeServiceType"
+    },
+    "currencyExchangeServiceReference" : "776158"
+  }
+}

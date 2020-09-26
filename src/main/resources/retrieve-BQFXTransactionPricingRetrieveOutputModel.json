@@ -1,0 +1,26 @@
+{
+  "fXTransactionPricingOTCFXTransactionPricingServiceInputsandOuputs" : "fXTransactionPricingOTCFXTransactionPricingServiceInputsandOuputs",
+  "fXTransactionPricingOTCFXTransactionPricingServiceName" : "fXTransactionPricingOTCFXTransactionPricingServiceName",
+  "fXTransactionPricingTaskSchedule" : "fXTransactionPricingTaskSchedule",
+  "fXTransactionPricingPostconditions" : "fXTransactionPricingPostconditions",
+  "fXTransactionPricingOTCFXTransactionPricingServiceDescription" : "fXTransactionPricingOTCFXTransactionPricingServiceDescription",
+  "fXTransactionPricingInstanceReport" : {
+    "fXTransactionPricingInstanceReport" : {},
+    "fXTransactionPricingInstanceReportRecord" : {},
+    "fXTransactionPricingInstanceReportType" : "fXTransactionPricingInstanceReportType",
+    "fXTransactionPricingInstanceReportParameters" : "fXTransactionPricingInstanceReportParameters"
+  },
+  "fXTransactionPricingOTCFXTransactionPricingServiceType" : "fXTransactionPricingOTCFXTransactionPricingServiceType",
+  "fXTransactionPricingRetrieveActionTaskReference" : "FPRATR706000",
+  "fXTransactionPricingRetrieveActionTaskRecord" : {},
+  "fXTransactionPricingPreconditions" : "fXTransactionPricingPreconditions",
+  "fXTransactionPricingRetrieveActionResponse" : "fXTransactionPricingRetrieveActionResponse",
+  "oTCFXTransactionPricing" : "oTCFXTransactionPricing",
+  "fXTransactionPricingInstanceAnalysis" : {
+    "fXTransactionPricingInstanceAnalysisReport" : {},
+    "fXTransactionPricingInstanceAnalysisReportType" : "fXTransactionPricingInstanceAnalysisReportType",
+    "fXTransactionPricingInstanceAnalysisRecord" : {},
+    "fXTransactionPricingInstanceAnalysisParameters" : "fXTransactionPricingInstanceAnalysisParameters"
+  },
+  "fXTransactionPricingOTCFXTransactionPricingServiceWorkProduct" : "fXTransactionPricingOTCFXTransactionPricingServiceWorkProduct"
+}
